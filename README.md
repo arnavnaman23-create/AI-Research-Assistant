@@ -1,7 +1,4 @@
-# AI-Research-Assistant
-An AI-powered research assistant that uses RAG, FAISS, Groq, and LangGraph to answer questions, explain concepts, and extract key findings from research papers.
 # AI Research Assistant
-
 An AI-powered research assistant that helps users explore research papers using Retrieval-Augmented Generation (RAG), FAISS, Groq, and LangGraph.
 
 ## Features
